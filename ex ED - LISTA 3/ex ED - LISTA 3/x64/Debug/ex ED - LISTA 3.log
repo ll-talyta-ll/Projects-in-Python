@@ -1,4 +1,0 @@
-﻿  ex ED - LISTA 3.cpp
-C:\Users\Clovis\source\repos\ex ED - LISTA 3\ex ED - LISTA 3\ex ED - LISTA 3.cpp(40,28): warning C4244: 'argumento': conversão de 'time_t' para 'char', possível perda de dados
-C:\Users\Clovis\source\repos\ex ED - LISTA 3\ex ED - LISTA 3\ex ED - LISTA 3.cpp(53,28): warning C4244: 'argumento': conversão de 'time_t' para 'char', possível perda de dados
-  ex ED - LISTA 3.vcxproj -> C:\Users\Clovis\source\repos\ex ED - LISTA 3\x64\Debug\ex ED - LISTA 3.exe
