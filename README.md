@@ -1,2 +1,3 @@
 # Projects-in-Python
-EXERCÍCIOS REALIZADOS DURANTE O 1 E 2 SEMESTRE DO CURSO CIÊNCIAS DA COMPUTAÇÃO DA FACULDADE PRESBITERIANA MACKENZIE
+- Exercícios realizados no aprendizado da primeira linguagem de programacao (PYTHON)
+- Foram realizados no 1° e 2° Semestres do Curso
